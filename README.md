@@ -4,7 +4,7 @@ Example problem for creating python plugins
 # how to use this example
 First install "main_plugin_arch" using pip. This example package represents an existing python pakage
 ```commandline
-cd main_plugin_arch
+cd main_program
 pip install .
 ```
 
